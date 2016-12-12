@@ -1,0 +1,2 @@
+# permuzip
+Deductive permitation compression
